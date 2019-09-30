@@ -153,3 +153,14 @@ body {
   background: #ffffff;
   color: #0e4f1f;
 }
+
+#key-features {
+  background: #ff1b68;
+  margin-top: 80px;
+  padding: 16px;
+}
+
+#key-features .section-title {
+  color: #ffffff;
+  margin: 32px;
+}
